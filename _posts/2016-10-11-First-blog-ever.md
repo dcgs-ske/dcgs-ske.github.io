@@ -57,9 +57,9 @@ published: true
   </tr>
 </table>
 
-</br>
-</br>
-</hr>
+<br>
+<br>
+<hr>
 
 <h2> Some rubbish I did, innit?</h2>
 
