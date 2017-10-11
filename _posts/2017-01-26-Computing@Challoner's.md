@@ -113,7 +113,4 @@ Python Programming
 
 * Pseudocode and flowcharts
 
-KS4 GCSE Computer Science. 
-
-[http://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
 
